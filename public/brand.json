@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "brand": "Nike",
+        "brand_image": "https://i.ibb.co/F3nppm5/pexels-hamza-nouasria-8176112.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "Adidas",
+        "brand_image": "https://i.ibb.co/7Q9cywH/pexels-henry-co-3222146.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Puma",
+        "brand_image": "https://i.ibb.co/Qkz2w69/puma.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "Gucci",
+        "brand_image": "https://i.ibb.co/7n2GbNJ/gucci.jpg"
+    },
+    {
+        "id": 5,
+        "brand": "Zara",
+        "brand_image": "https://i.ibb.co/9s1B5LY/Zara.jpg"
+    },
+    {
+        "id": 6,
+        "brand": "Levi's",
+        "brand_image": "https://i.ibb.co/2kR6PGM/levi-s.jpg"
+    }
+]
